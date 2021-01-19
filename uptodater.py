@@ -16,4 +16,4 @@ from colorama import Fore, Back, Style, init
 init(autoreset=True)
 
 class Uptodater():
-    version = ""
+    pass
