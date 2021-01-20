@@ -11,7 +11,7 @@ CihatAltiparmak <http://github.com/CihatAltiparmak>
 import requests, socket
 from requests.exceptions import ConnectionError
 from requests.exceptions import InvalidURL
-from colorama import Fore, Back, Style, init
+from colorama import Fore, init
 
 init(autoreset=True)
 
