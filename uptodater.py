@@ -4,8 +4,9 @@
 """
 Who Contributed
 
-gncmnc <gnc@vuhuv.com>
-Samet195
+gncmnc <https://github.com/gncmnc>
+Samet195 <https://github.com/Samet195>
+CihatAltiparmak <http://github.com/CihatAltiparmak>
 """
 
 import requests, socket
