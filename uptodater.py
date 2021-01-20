@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 
-
 """
 Who Contributed
-gncmnc <https://github.com/gncmnc>
-Samet195 <https://github.com/Samet195>
-CihatAltiparmak <http://github.com/CihatAltiparmak>
+===============
+gncmnc          <https://github.com/gncmnc>
+Samet195        <https://github.com/Samet195>
+CihatAltiparmak <https://github.com/CihatAltiparmak>
 """
 
 import requests, socket
